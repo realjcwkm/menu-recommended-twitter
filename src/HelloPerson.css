@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+
+    background-color: rgb(228, 228, 228);
+    border: 5px;
+    border-radius: 20px 20px 20px 20px;
+    padding: 5px;
+}
+
+.perfil{
+    display: inline-block;
+    width: 400px;
+    height: 70px;
+}
+
+.botao{
+    width: 100px;
+    height: 150px;
+}
+
+.frase{
+    font-size: 17px;
+    color: rgb(23, 1, 1);
+    padding-right: 85px;
+    display: inline-block;
+}
+.arrobas{
+    font-size: 15px;
+    color: rgb(134, 134, 134);
+    padding-right: 85px;
+}
+
+.foto{
+    border-radius: 200px 200px 200px 200px;
+    width: 70px;
+    height: 70px;
+    padding-right: 6px;
+}
